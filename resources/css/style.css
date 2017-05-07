@@ -1,3 +1,30 @@
-#home,
-.design {
-  background-image: url("../images/the-flatiron-building.png")}
+.home,
+.design {background-image: url("../images/the-flatiron-building.png")}
+
+* {text-align: center;
+  font-family: helvetica;}
+
+.home h1 {font-size: 70px;}
+
+a,
+.home,
+.design,
+.end {color: white;}
+
+.home p {font-size: 18px;}
+
+.home,
+h2,
+h3 {font weight: bold;}
+
+.info p {font-size: 14px;}
+
+.process {font-size: 32px;}
+
+.design {font-size: 23px;
+  font-weight: bold;}
+
+.end {text-align: left;
+  background-color: dimgray;}
+
+span {font-size: 11px;}
